@@ -1,1 +1,2 @@
 # casadojulgamento
+![Alt text](hhttps://github.com/germanodasilva/casadojulgamento/blob/dd76740228e047087d0ff8bd9bec97db9ded293e/images/diagram-casadojulgamento.drawio.png "Arquitetura HLD - Casa do Julgamento")
